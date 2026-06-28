@@ -1,11 +1,11 @@
 [package]
-name = "faang-regex101-tester-backend"
+name = "regex101tester-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Instantly test any regex - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-regex101-tester"
+repository = "https://github.com/JJ-Dynamite/regex101tester"
 
 [dependencies]
 axum = "0.7"

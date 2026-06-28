@@ -1,6 +1,6 @@
 # Instantly test any regex
 
-[![CI](https://github.com/JJ-Dynamite/faang-regex101-tester/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-regex101-tester/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/regex101tester/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/regex101tester/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Instantly test any regex - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/faang-regex101-tester.git
+git clone https://github.com/JJ-Dynamite/regex101tester.git
 cd regex101-tester
 
 # Install backend dependencies

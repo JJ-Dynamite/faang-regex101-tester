@@ -1,4 +1,4 @@
-# Contributing to faang-regex101-tester
+# Contributing to regex101tester
 
 Thank you for your interest in contributing!
 
